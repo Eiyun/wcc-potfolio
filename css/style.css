@@ -25,7 +25,7 @@ p{
 /* positioning elements on the page is fundamental to understanding CSS: https://developer.mozilla.org/en-US/docs/Web/CSS/position */
 .title{
     position: relative;
-    width: 1000px;
+    width: 1200px;
     text-align: left;
     margin: 0 auto;
 }
